@@ -1,6 +1,10 @@
 .Rproj.user
 .Rhistory
 .RData
-R/data
-R/output
+R/data/transfer/
+R/data/instru/
+R/data/pav/
+R/data/deval/
+R/output/data/
+R/output/figures/
 .Rproj
